@@ -1,13 +1,13 @@
 <p align="center">
   <img alt="🖼️_Image_Reconstructor" src="https://user-images.githubusercontent.com/62103572/183084803-ec31d4dd-8eff-4592-98a0-f2cf5f6bc7ab.png">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-trasnform">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-trasnform">
-  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-trasnform">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-trasnform">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-transform">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-transform">
+  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-transform">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-transform">
   <img alt="GitHub follow" src="https://img.shields.io/github/followers/EliaFantini?label=Follow">
-  <img alt="GitHub fork" src="https://img.shields.io/github/forks/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-trasnform?label=Fork">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-trasnform?label=Watch">
-  <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-trasnform?style=social">
+  <img alt="GitHub fork" src="https://img.shields.io/github/forks/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-transform?label=Fork">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-transform?label=Watch">
+  <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/Image-Reconstructor-FISTA-proximal-method-on-wavelets-transform?style=social">
 </p>
 
 
