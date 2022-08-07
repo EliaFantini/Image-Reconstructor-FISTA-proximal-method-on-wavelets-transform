@@ -64,7 +64,7 @@ python inpainting_template.py
 
 - **Answers.pdf**: pdf with the answers and plots to the assignment of the course
 
-- **Exercise instructions.py**: pdf with the questions of the assignment of the course
+- **Exercise instructions.pdf**: pdf with the questions of the assignment of the course
 
 ## 🛠 Skills
 Python, PyTorch, Matplotlib. Machine learning, proximal methods, hyperparameter tuning, denoising, wavelets transform, total variation and L1 regularization.
